@@ -4,11 +4,10 @@ LSTM(Long Short-Term Memory)을 활용하여 시계열 데이터에서 공정의
 센서 데이터를 기반으로 학습된 모델을 통해 실시간 또는 기록된 데이터 내 이상 징후를 탐지할 수 있습니다.
 
 ---
-/markdown
 
 ##  프로젝트 구조
 
-'''
+```
 LSTM_AnomalyDetect/
 ├── dataset/ # 학습 및 테스트용 데이터셋
 ├── report/ # 프로젝트 보고서 및 참고 문서
@@ -18,7 +17,7 @@ LSTM_AnomalyDetect/
 ├── prototype.py # 프로토타입 테스트 코드
 ├── test_model.pkl # 저장된 테스트 모델
 └── .gitignore # Git 추적 제외 파일 목록
-'''
+```
 ---
 
 ## 사용 기술
