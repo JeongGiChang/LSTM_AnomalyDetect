@@ -7,15 +7,7 @@ LSTM(Long Short-Term Memory)을 활용하여 시계열 데이터에서 공정의
 
 ## 프로젝트 구조
 
-LSTM_AnomalyDetect/
-├── dataset/ # 학습 및 테스트용 데이터셋
-├── report/ # 프로젝트 보고서 및 참고 문서
-├── saved_model/ # 학습된 모델 저장 디렉토리
-├── anomaly_detect.ipynb # Jupyter 기반 이상 탐지 분석 노트북
-├── anomaly_detect.py # 이상 탐지 실행 스크립트
-├── prototype.py # 프로토타입 테스트 코드
-├── test_model.pkl # 저장된 테스트 모델
-└── .gitignore # Git 추적 제외 파일 목록
+LSTM_AnomalyDetect/ ├── dataset/ # 학습 및 테스트용 데이터셋 ├── report/ # 프로젝트 보고서 및 참고 문서 ├── saved_model/ # 학습된 모델 저장 디렉토리 ├── anomaly_detect.ipynb # Jupyter 기반 이상 탐지 분석 노트북 ├── anomaly_detect.py # 이상 탐지 실행 스크립트 ├── prototype.py # 프로토타입 테스트 코드 ├── test_model.pkl # 저장된 테스트 모델 └── .gitignore # Git 추적 제외 파일 목록
 
 
 ---
