@@ -81,7 +81,7 @@ LSTM_AnomalyDetect/
 
 ---
 
-## 문의
+## 기타 정보
 
-프로젝트 관련 문의: [JeongGiChang](https://github.com/JeongGiChang)
+프로젝트 제작자 : 정기창(bluestorm9634@gmail.com)
 포트폴리오 보기 (https://drive.google.com/file/d/12Bqs6lkHku_dIsGpzMe0iGHQJZNPmW7_/view?usp=sharing)
