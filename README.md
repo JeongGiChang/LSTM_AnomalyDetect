@@ -17,6 +17,7 @@ LSTM_AnomalyDetect/
 ├── saved_model/ # 학습된 모델 저장 디렉토리
 ├── anomaly_detect.ipynb # Jupyter 기반 이상 탐지 분석 노트북
 ├── lstm_streamlit_app.py # 프로토타입 테스트 코드
+├── requirement.txt # 이 프로젝트를 실행하기 위해 꼭 필요한 파이썬 패키지 목록
 ├── test_model.pkl # 저장된 테스트 모델
 └── .gitignore # Git 추적 제외 파일 목록
 ```
